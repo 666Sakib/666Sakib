@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Sakib
-- 👀 I’m interested in Web Development and design
-- 🌱 I’m currently learning about life
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m @MD. Sakib Islam
+- 👀 I’m interested in Data Science and Artificial Intelligence
+- 🌱 I’m currently learning Data Science
+- 💞️ I’m looking to collaborate on the future of AI
 - 📫 How to reach me? Just email me at sakibae.007@gmail.com
 
 <!---
